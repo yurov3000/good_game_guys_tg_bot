@@ -1,0 +1,4 @@
+# Config for bot
+API_TOKEN = '5490197254:AAEC78QTj-iTkKhttJcMHlDCwd7rx71CWhg'
+
+GROUP_ID = '-1001696280756'
